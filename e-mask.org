@@ -1,0 +1,17 @@
+#+TITLE: e-mask
+#+NAME: Rick Astley
+
+e-mask is a tool to manage identities in emacs.
+* Some Use Cases
+** Using exwm, able to switch between virtual user profiles to keep identities separate.
+
+* Why
+Emacs doesn't have much in the way of user management
+
+
+* Functions
+
+** FAIL [#A] Switch git identity
+** FAIL [#C] Switch mu4e identity
+** FAIL Switch gpg default signing key 
+** FAIL [#B] Switch find-file user
